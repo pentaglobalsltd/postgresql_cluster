@@ -445,3 +445,6 @@ USDT (TRC20) TSTSXZzqDCUDHDjZwCpuBkdukjuDZspwjj
 
 ## Feedback, bug-reports, requests, ...
 Are [welcome](https://github.com/vitabaks/postgresql_cluster/issues)!
+
+
+<!-- Security scan triggered at 2026-08-31 17:17:22 -->
