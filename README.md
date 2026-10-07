@@ -451,3 +451,6 @@ Are [welcome](https://github.com/vitabaks/postgresql_cluster/issues)!
 
 
 
+
+
+<!-- Security scan triggered at 2026-10-07 11:54:45 -->
